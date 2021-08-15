@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\components",
+    "\\hooks",
+    "\\state",
+    "\\state\\action-creators",
+    "\\state\\action-types",
+    "\\state\\actions",
+    "\\state\\reducers"
+  ],
+  "SelectedNode": "\\state\\reducers\\cellsReducers.ts",
+  "PreviewInSolutionExplorer": false
+}
